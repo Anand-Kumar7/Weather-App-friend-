@@ -5,4 +5,4 @@ The development of the Weather App follows a structured process, starting with p
 
 The Weather App provides real-time weather updates, a 5-day forecast, and hourly temperature trends. It includes features like air quality index (AQI), sunrise and sunset timings, and detailed weather metrics such as humidity, wind speed, and "feels like" temperature. The app is user-friendly, responsive, and supports geolocation for automatic weather retrieval. Future enhancements may include dark mode, weather alerts, and more customization options.
 
-go online option in vscode - to see the output.
+go online option in vs code - to see the output.
